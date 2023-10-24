@@ -1,0 +1,13 @@
+Instruções para o projeto
+
+Classe Repositorio
+-nomeRepositoio
+-descRepositorio
+-linkRepositorio
+
+1-Os objetos instanciados devem ser guardados em um list repositorios
+
+2-O projeto deve conter verificações e tratamento de exceções se necessário
+
+3-O console deve exibir uma mensagem para o usuário e um pedido para digitar o seu nome no github, o nome deve estar contido na url
+

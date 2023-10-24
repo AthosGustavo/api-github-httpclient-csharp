@@ -1,0 +1,15 @@
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/bin/Debug/net6.0/api-github
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/bin/Debug/net6.0/api-github.deps.json
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/bin/Debug/net6.0/api-github.runtimeconfig.json
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/bin/Debug/net6.0/api-github.dll
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/bin/Debug/net6.0/ref/api-github.dll
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/bin/Debug/net6.0/api-github.pdb
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/api-github.csproj.AssemblyReference.cache
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/api-github.GeneratedMSBuildEditorConfig.editorconfig
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/api-github.AssemblyInfoInputs.cache
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/api-github.AssemblyInfo.cs
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/api-github.csproj.CoreCompileInputs.cache
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/api-github.dll
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/ref/api-github.dll
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/api-github.pdb
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/api-github.genruntimeconfig.cache
