@@ -17,9 +17,9 @@ public class HttpClientClass{
         set{httpClientConnection = value;}
     }
 
-    public HttpClientClass(){
+    public HttpClientClass(string nameUser){
         this.httpClientConnection = new HttpClient();
-        this.apiGithub = $"https://api.github.com/users/AthosGustavo/repos";
+        this.apiGithub = $"https://api.github.com/users/{nameUser}/repos";
         this.httpClientConnection.DefaultRequestHeaders.Add("User-Agent", "MeuAplicativo/1.0");
     }
 
