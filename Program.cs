@@ -1,12 +1,22 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using api_github.Controller;
+using Model.Repositorio;
+
 class Program{
 
-    public static async Task Main(string[] args){
-        Console.WriteLine("Olá, digite o seu user no github sem a presença do '@', Exemplo:AthosGustavo");
-        string resposta = Console.ReadLine();
-        Console.WriteLine(resposta);
+    public static async Task Main(string[] args)
+    {
+        // HttpClientClass teste = new HttpClientClass("AthosGustavo");
+        // List<Repositorio> repositorios = await teste.GetConnection();
+        
+        // // for(int i = 0; i < repositorios.Count; i++){
+        // //     Console.WriteLine(repositorios[i]);
+        // // }
+        // Console.WriteLine(repositorios[0]);
 
-        HttpClientClass teste = new HttpClientClass();
+        HttpClientController application = new HttpClientController();
+        await application.GetRepositorios();
+
     }
 }

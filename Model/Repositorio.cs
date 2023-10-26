@@ -1,30 +1,36 @@
 namespace Model.Repositorio;
 public class Repositorio{
 
-    private string nomeRepositorio;
-    private string descRepositorio;
-    private string linkRepositorio;
+    private string name;
+    private string description;
+    private string html_url;
 
-    public Repositorio(string nomeRepositorio, string descRepositorio, string linkRepositorio){
-        this.nomeRepositorio = nomeRepositorio;
-        this.descRepositorio = descRepositorio;
-        this.linkRepositorio = linkRepositorio;
+    public Repositorio(string name, string description, string html_url){
+        this.name = name;
+        this.description = description;
+        this.html_url = html_url;
     }
         
 
-    public string NomeRepositorio{
-        get{return nomeRepositorio;}
-        set{nomeRepositorio = value;}
+    public string Name{
+        get{return name;}
+        set{name = value;}
     }
 
-    public string DescRepositorio{
-        get{return descRepositorio;}
-        set{descRepositorio = value;}
+    public string Description
+    {
+        get{return description;}
+        set{description= value;}
     }
 
-    public string LinkRepositorio{
-        get{return linkRepositorio;}
-        set{linkRepositorio = value;}
+    public string Html_url{
+        get{return html_url;}
+        set{html_url = value;}
+    }
+
+    public override string ToString()
+    {
+        return $"Repositório:\nNome: {name}\nDescrição: {description}\nLink: {html_url}\n";
     }
 
 

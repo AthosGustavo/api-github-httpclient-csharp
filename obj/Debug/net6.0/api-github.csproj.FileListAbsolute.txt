@@ -13,3 +13,5 @@
 /home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/ref/api-github.dll
 /home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/api-github.pdb
 /home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/api-github.genruntimeconfig.cache
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/athos/Documentos/Pasta de estudos/C#/projetos/api-github/obj/Debug/net6.0/api-github.csproj.CopyComplete
